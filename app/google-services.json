@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1083481314655",
+    "firebase_url": "https://blood-bank-r.firebaseio.com",
+    "project_id": "blood-bank-r",
+    "storage_bucket": "blood-bank-r.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083481314655:android:7f638647df159d14",
+        "android_client_info": {
+          "package_name": "com.reonsaji.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083481314655-kkao05ukpminejhsknctrlm9f1d6a15u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6i1Q1t91G-1Dpryh5VkRGwHQXdl3Ux7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

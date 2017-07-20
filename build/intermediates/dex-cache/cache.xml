@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_2a39277bbaf2d8cbeb33a0d7eeea0fb402ea6797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_3121a86942edcc8a2e73d882c96799a8149c5426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_ad8e9fe54095b7fd7098d0df6f438f3b42fabc0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.0_7e7543d09ca3acf9bc650e36f20e300712d5635a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_352602cb7822922e475158a846ad8f72bb11a0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.0_25c948e0005f30ea164ebb56c57505af0c3f1ad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.0_8290e7851e0fff84ef22028e960705e2ece4a369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_548a6e8436e07422730e604be63817bf1d0c8f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8a8ede5e8af8f5f0dc8eb86b552bdff9171c4393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.0_89df6f17ca2fffc99f4e21a1b9d8427aec975013/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_74cf2158cf44b4c0aaf686af45e5761c31c92092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.0_1d470bb9989f14ed21042f86fbf654020a06da6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_36487cce8778556986225dfb9d379fdb6885eb02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e81e7b36400aa340c7c6e3ecef56d9b765bee153/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_040befa8737637cef758826e87642029e1b12f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7efca451bb0292f113c8d7dccf71705cb97794ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2464733a7597a39209a320ce2c8ccd14a82c6e40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f7514654dd8a93a15335d42377e0fff6900e4934/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f6e461805a6116354a77023f5552ab2eac1ce121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_faf93412025fb6069ccfab2d64fd3562d7bf664d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.0_9e1149030522f6c9b0990bb9b70240d0d93dc520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d8fcd6c9b523e01b04cdc9301e8d9191dda7f70f">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e58664a177d56a2b4be384c70161eae3b6caa54d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.0_df20e233a494ac8cdb31c316d083a040d06c8a23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.0_d27e7207b974da404a6bf92014d28e61c0df07fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_fadf19ed8fa71eca6d9a7e6d8d0094779af238bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_fbd252d406d7d79f4333f0c3436056c1cef7e8b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94b7835c7535a82ff36e53407571a051738157af">
+        <dex dex="/Users/reonsaji/Downloads/Midipp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_40e24762bec894529f666d1188853b8affeb5130/classes.dex" />
+    </item>
+
+</items>
