@@ -20,18 +20,17 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
-    private DatabaseReference mFirebaseDatabase;
-    private FirebaseDatabase mFirebaseInstance;
+
 private Button newb;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mFirebaseInstance = FirebaseDatabase.getInstance();
+
 
         // get reference to 'users' node
-        mFirebaseDatabase = mFirebaseInstance.getReference();
+
         final EditText name = (EditText) findViewById(R.id.editText);
         final EditText mobile = (EditText) findViewById(R.id.editText3);
         newb = (Button) findViewById(R.id.button2);
@@ -60,10 +59,12 @@ private Button newb;
                 if (blood1.equals("") || mobile1.equals("") || panch1.equals("")) {
                     Toast.makeText(MainActivity.this, "Please fill all the details.", Toast.LENGTH_SHORT).show();
                 } else {
-                    mFirebaseDatabase.child("users").child(blood1).child(mobile1).setValue(combo);
 
-                Toast.makeText(MainActivity.this,"Donor Added",Toast.LENGTH_SHORT).show();
-                    Intent home=new Intent(MainActivity.this,Home.class);
+
+                    Intent home=new Intent(MainActivity.this,fsave.class);
+                    home.putExtra("blood1",blood1);
+                    home.putExtra("mobile1",mobile1);
+                    home.putExtra("combo",combo);
                     startActivity(home);
                     finish();
                 }
