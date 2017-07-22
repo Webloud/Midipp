@@ -24,7 +24,7 @@
     <RelativeLayout
         android:layout_width="20dp"
         android:layout_height="70dp"
-        android:background="#f31c45"
+        android:background="#ca0f34"
         android:id="@+id/Rel2"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
@@ -114,7 +114,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="29dp"
         android:id="@+id/button3"
-        android:background="#f31c45"
+        android:background="#ca0f34"
         android:textColor="#ffffff"
         android:layout_below="@+id/spinner4"
         android:layout_centerHorizontal="true" />
