@@ -9,7 +9,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="0dp"
-    tools:context="com.reonsaji.bloodbank.searchview">
+    tools:context="com.reonsaji.midipp.searchview">
 
     <TextView
         android:text="msf Erattupetta Muncipal Committee"

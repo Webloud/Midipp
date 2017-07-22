@@ -8,7 +8,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="0dp"
-    tools:context="com.reonsaji.bloodbank.Search">
+    tools:context="com.reonsaji.midipp.Search">
     <RelativeLayout
         android:layout_width="20dp"
         android:layout_height="70dp"

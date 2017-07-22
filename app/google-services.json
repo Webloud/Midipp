@@ -10,7 +10,38 @@
       "client_info": {
         "mobilesdk_app_id": "1:1083481314655:android:7f638647df159d14",
         "android_client_info": {
-          "package_name": "com.reonsaji.bloodbank"
+          "package_name": "com.reonsaji.midipp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083481314655-kkao05ukpminejhsknctrlm9f1d6a15u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6i1Q1t91G-1Dpryh5VkRGwHQXdl3Ux7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083481314655:android:169201ae872f9b78",
+        "android_client_info": {
+          "package_name": "com.reonsaji.midipp"
         }
       },
       "oauth_client": [
